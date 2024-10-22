@@ -4,6 +4,12 @@ Esta aplicación es una prueba técnica desarrollada con Flutter para visualizar
 
 La visualización de cartas se realiza con un diseño estilo "masonry" para aprovechar mejor el espacio en la pantalla.
 
+
+
+https://github.com/user-attachments/assets/fb2c0f8f-33a9-4456-b828-356f9cf1b0cd
+
+
+
 ## Características
 
 - **Pantalla de Catálogo de Cartas**: Muestra todas las cartas de Yu-Gi-Oh! disponibles, con la opción de hacer scroll infinito.
